@@ -1,0 +1,24 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "Single Page Application for Advanced Responsive Web Development Video",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlagrone/advancedresponsivewebdevelopmentvideo.git"
+  },
+  "author": "Benjamin LaGrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benlagrone/advancedresponsivewebdevelopmentvideo/issues"
+  },
+  "homepage": "https://github.com/benlagrone/advancedresponsivewebdevelopmentvideo#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0"
+  }
+}
